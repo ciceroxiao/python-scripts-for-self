@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python-scripts/.idea/Python-scripts.iml" filepath="$PROJECT_DIR$/../Python-scripts/.idea/Python-scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SQL-exercises/.idea/SQL-exercises.iml" filepath="$PROJECT_DIR$/../SQL-exercises/.idea/SQL-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs61a/.idea/cs61a.iml" filepath="$PROJECT_DIR$/../cs61a/.idea/cs61a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-fullstack/.idea/python-fullstack.iml" filepath="$PROJECT_DIR$/../python-fullstack/.idea/python-fullstack.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-scripts.iml" filepath="$PROJECT_DIR$/.idea/python-scripts.iml" />
     </modules>
   </component>
